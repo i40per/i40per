@@ -3,7 +3,7 @@
 ```swift
 class I40per: UIDeveloper {
 
-  private let fullName = "Evgenii Lukin"
+  private let fullName = "CryptoNobody"
   private var country = "Kazakhstan"
   
   var contacts = [
